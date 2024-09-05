@@ -3,13 +3,8 @@
 I'm a Frontend Developer with a background in technical support and web localization. My journey into the IT world began when I was living in Shanghai, China 🇨🇳 With over 3 years of experience in technical support, I've developed strong problem-solving skills and a passion for technology 👩🏼‍💻
 In 2023, I decided to dive into coding and discovered my love for web development. I'm continuously learning and building projects to hone my skills.
 
-## 💻 What I Do
 
-- **Frontend Development:** I specialize in HTML, CSS, and JavaScript, and I'm currently learning React.
-- **Technical Support:** I have extensive experience in providing technical assistance and ensuring smooth operations for users.
-- **Web Localization:** I've worked on projects that required adapting content for different markets and languages.
-
-## ⚡Technologies
+## Technologies
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -20,26 +15,30 @@ In 2023, I decided to dive into coding and discovered my love for web developmen
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
+
+## My GitHub Stats
+
 <p align="justify">
   <a href="https://github.com/oxanamar/oxanamar/">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=oxanamar&count_private=true&show_icons=true&custom_title=Github%20Status"
-      alt="Eugene's GitHub stats"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=oxanamar&theme=radical"
+      alt="Oksana's GitHub streak"
     />
   </a>
    <a href="https://github.com/oxanamar/oxanamar/">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxanamar&layout=compact&langs_count=6"
-      alt="Eugene's top langs stats"
+      alt="Oksana's top langs stats"
     />
   </a>  
 </p>
 
 ## 🤝 Connect with Me!
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marmyl/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marmyl/) [<img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/shanachina)
+
 
 Feel free to reach out if you want to collaborate on projects or just have a chat about tech! ✨
 
