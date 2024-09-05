@@ -3,8 +3,8 @@
 
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Oksana</h1>
 
-I'm a Frontend Developer with a background in technical support and web localization. My journey into the IT world began when I was living in 🇨🇳 Shanghai, China. With over 3 years of experience in technical support, I've developed strong problem-solving skills and a passion for technology 💓
-In 2023, I decided to dive into coding and discovered my love for web development. I'm continuously learning and building projects to hone my skills.
+I'm a Frontend Developer with a background in technical support and web localization. My journey into the IT world began when I was living in 🇨🇳 Shanghai, China. With over 3 years of experience in technical support, I've developed strong problem-solving skills and a passion for technology 👩🏼‍💻
+In 2023, I decided to dive into coding and discovered my love for web development 💓 I'm continuously learning and building projects to hone my skills.
 
 
 ## Technologies
