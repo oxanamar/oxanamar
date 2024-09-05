@@ -2,7 +2,7 @@
 
 I'm Oksana and I'm a Frontend Developer 👩🏼‍💻
 
-- 💻 I’m currently working on ReactJS, TypeScript
+- 💻 I’m currently working on ReactJS
 - 🌱 I’m currently learning ReactJS
 - 💬 Ask me about tech and fitness
 
