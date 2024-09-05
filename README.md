@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+My+Github+Profile..)](https://git.io/typing-svg)
+
+
 ## Hi there 👋🏻  I'm Oksana
 
 I'm a Frontend Developer with a background in technical support and web localization. My journey into the IT world began when I was living in Shanghai, China 🇨🇳 With over 3 years of experience in technical support, I've developed strong problem-solving skills and a passion for technology 👩🏼‍💻
