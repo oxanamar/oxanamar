@@ -43,7 +43,7 @@ In 2023, I decided to dive into coding and discovered my love for web developmen
 
 ## 🤝 Connect with Me!
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marmyl/) [<img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/shanachina)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marmyl/) [<img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/oksanamarmyl)
 
 
 Feel free to reach out if you want to collaborate on projects or just have a chat about tech! ✨
