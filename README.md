@@ -30,14 +30,6 @@ I'm a Frontend Developer ✨
       src="https://github-readme-streak-stats.herokuapp.com/?user=oxanamar&theme=radical"
       alt="Oksana's GitHub streak"
     />
-  </a>
-   <a href="https://github.com/oxanamar/oxanamar/">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxanamar&layout=compact&langs_count=6"
-      alt="Oksana's top langs stats"
-    />
-  </a>  
 </p>
 
 ## 🤝 Connect with Me!
